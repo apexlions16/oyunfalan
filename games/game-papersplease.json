@@ -1,0 +1,20 @@
+{
+  "description_en": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.",
+  "description_tr": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.",
+  "display_name": "Papers, Please",
+  "game_id": "game-papersplease",
+  "media": {
+    "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/page_bg_raw.jpg?t=1678266428",
+    "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/library_600x900.jpg",
+    "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/logo.png",
+    "trailer_id": null,
+    "trailer_provider": null
+  },
+  "platforms": [
+    "windows"
+  ],
+  "releases": [
+    "releases/release-papersplease-windows-1.0.json"
+  ],
+  "sort_name": "PapersPlease"
+}
