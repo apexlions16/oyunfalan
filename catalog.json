@@ -1,13 +1,36 @@
 {
   "games": [
     {
-      "active": true,
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/page_bg_raw.jpg?t=1678266428",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/library_600x900.jpg",
+      "description": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.",
       "display_name": "Papers, Please",
       "game_id": "game-papersplease",
-      "game_record": "games/game-papersplease.json",
-      "slug": "game-papersplease"
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 0,
+          "folder": "PPCH/2",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-papersplease-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "sort_name": "PapersPlease"
     }
   ],
-  "generated_at": 1782499573,
-  "schema_version": 1
+  "generated_at": 1782501629,
+  "schema_version": 2
 }
