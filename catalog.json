@@ -14,7 +14,7 @@
         {
           "channel": "stable",
           "download_size_bytes": 0,
-          "folder": "PPCH/2",
+          "folder": "PPCH/3",
           "launch": {
             "adapter": "windows_executable",
             "arguments": [],
@@ -31,6 +31,6 @@
       "sort_name": "PapersPlease"
     }
   ],
-  "generated_at": 1782501629,
+  "generated_at": 1782501761,
   "schema_version": 2
 }
