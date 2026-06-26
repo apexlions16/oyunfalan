@@ -1,0 +1,13 @@
+{
+  "games": [
+    {
+      "active": true,
+      "display_name": "Papers, Please",
+      "game_id": "game-papersplease",
+      "game_record": "games/game-papersplease.json",
+      "slug": "game-papersplease"
+    }
+  ],
+  "generated_at": 1782499573,
+  "schema_version": 1
+}
