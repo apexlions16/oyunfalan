@@ -151,6 +151,55 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257165620/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/page_bg_raw.jpg?t=1782314340",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1671210/library_600x900.jpg",
+      "description": "Dive into the parallel story to UNDERTALE! Fight or spare your way through action-packed battles as you explore a mysterious world alongside an endearing cast of new and familiar characters. Chapters 1-5 are available now, with more planned as free updates!",
+      "developer": "tobyfox",
+      "display_name": "DELTARUNE",
+      "game_id": "game-deltarune",
+      "genres": [
+        "Indie",
+        "RPG"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1671210/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "tobyfox",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 889919332,
+          "folder": "PPCH/11",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-deltarune-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 or higher\nMemory: 2 GB RAM\nGraphics: 128 MB\nDirectX: Version 12\nStorage: 1 GB available space",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 10 or higher\nMemory: 4 GB RAM\nGraphics: 512MB\nStorage: 1 GB available space",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_b19eda9efcabf0fe27741eb126427048541780f0.1920x1080.jpg?t=1782314340",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_3fb0a253a8fa2f08a49f982d8c1e93c283e27f6d.1920x1080.jpg?t=1782314340",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_0d6b9f18eb6af166ae23a2c6b3148865eedb362d.1920x1080.jpg?t=1782314340",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_373f7aa9cd0f38423fadc4de77dece8e488bb7b1.1920x1080.jpg?t=1782314340",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_ba1b1cd502e6a7f8aa5b9d5a39485ff32b84dc23.1920x1080.jpg?t=1782314340",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_a8ec5f242a7c453fa4937e00c8d73fd0ab20328c.1920x1080.jpg?t=1782314340",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/a9c094029ad0a5071c3222d8f48d67f924a9a0c2/ss_a9c094029ad0a5071c3222d8f48d67f924a9a0c2.1920x1080.jpg?t=1782314340",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/e205eb4b6785ea2335629ee3952d14edc102c58b/ss_e205eb4b6785ea2335629ee3952d14edc102c58b.1920x1080.jpg?t=1782314340"
+      ],
+      "sort_name": "DELTARUNE",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257121390/movie_max.mp4"
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/5ce35cb7c29431e9c58ec2228f6eaa8842953bc2/page_bg_raw.jpg?t=1782238812",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2483190/library_600x900.jpg",
       "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
@@ -301,6 +350,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2031139/movie_max.mp4"
     }
   ],
-  "generated_at": 1782575661,
+  "generated_at": 1782576014,
   "schema_version": 2
 }
