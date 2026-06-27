@@ -1,18 +1,23 @@
 {
   "games": [
     {
-      "background_url": null,
-      "cover_url": null,
-      "description": "",
-      "developer": null,
-      "display_name": "",
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2527500?t=1781766453",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/library_600x900.jpg",
+      "description": "Let's imagine that you have a game in which you care for a character. But could you imagine one day getting into that game yourself?",
+      "developer": "AIHASTO",
+      "display_name": "MiSide",
       "game_id": "",
-      "genres": [],
-      "logo_url": null,
+      "genres": [
+        "Adventure",
+        "Indie",
+        "RPG",
+        "Simulation"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/logo.png",
       "platforms": [
         "windows"
       ],
-      "publisher": null,
+      "publisher": "IndieArk",
       "releases": [
         {
           "channel": "stable",
@@ -31,10 +36,19 @@
           "version": "1.0"
         }
       ],
-      "requirements_min": null,
-      "requirements_rec": null,
-      "screenshots": [],
-      "sort_name": "",
+      "requirements_min": "Minimum:\nOS *: Windows 7/8/10\nProcessor: Intel Core i5-2300 @ 2,80 GHz, AMD FX 8120 @ 3.1 GHz\nMemory: 4 GB RAM\nGraphics: NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent\nDirectX: Version 10\nStorage: 2 GB available space\nSound Card: 100% DirectX 9.0c compatible sound card",
+      "requirements_rec": "Recommended:\nOS *: Windows 7/8/10\nProcessor: Intel i7 920 @ 2.7 GHz, AMD Phenom II 945 @ 3.0 GHz\nMemory: 8 GB RAM\nGraphics: NVIDIA GTX 1050\nDirectX: Version 11\nStorage: 2 GB available space\nSound Card: 100% DirectX 9.0c compatible sound card",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_7d0dff5dd742b106889cde15fff3be6c4d521bb1.1920x1080.jpg?t=1781766453",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_bbcfb91713fd45ebf7e8f8d9c5c6c2a194ef00a8.1920x1080.jpg?t=1781766453",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_4887e0489485c5ed91ff192fe927a3d7470a29f0.1920x1080.jpg?t=1781766453",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_f56c830c4c670a0607d6d9cfe6e2199943b4b96a.1920x1080.jpg?t=1781766453",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_a2a64803e6c0160a1f290f4bd0d94cc83bbb42fa.1920x1080.jpg?t=1781766453",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_31af73d2dd9af2608463c5a39158c3e0adf277ae.1920x1080.jpg?t=1781766453",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_7f327615a5938bea292a6307dc10edb152023e52.1920x1080.jpg?t=1781766453",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_b65b001751579fcfb3bc1d77899a71d83186a079.1920x1080.jpg?t=1781766453"
+      ],
+      "sort_name": "MiSide",
       "trailer_url": null
     },
     {
@@ -87,6 +101,6 @@
       "trailer_url": null
     }
   ],
-  "generated_at": 1782522983,
+  "generated_at": 1782523039,
   "schema_version": 2
 }
