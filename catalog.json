@@ -1,6 +1,43 @@
 {
   "games": [
     {
+      "background_url": null,
+      "cover_url": null,
+      "description": "",
+      "developer": null,
+      "display_name": "",
+      "game_id": "",
+      "genres": [],
+      "logo_url": null,
+      "platforms": [
+        "windows"
+      ],
+      "publisher": null,
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 0,
+          "folder": "PPCH/4",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release--windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": null,
+      "requirements_rec": null,
+      "screenshots": [],
+      "sort_name": "",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/page_bg_raw.jpg?t=1678266428",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/library_600x900.jpg",
       "description": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.",
@@ -50,6 +87,6 @@
       "trailer_url": null
     }
   ],
-  "generated_at": 1782522312,
+  "generated_at": 1782522983,
   "schema_version": 2
 }
