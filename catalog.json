@@ -248,8 +248,59 @@
       ],
       "sort_name": "PapersPlease",
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2028977/movie_max.mp4"
+    },
+    {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/aa708d5fd351fff025d9da9dbc9873a489d05bbb/page_bg_raw.jpg?t=1779100239",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/246620/library_600x900.jpg",
+      "description": "Plague Inc: Evolved is a unique mix of high strategy and terrifyingly realistic simulation. Your pathogen has just infected 'Patient Zero' - now you must bring about the end of human history by evolving a deadly, global Plague whilst adapting against everything humanity can do to defend itself.",
+      "developer": "Ndemic Creations",
+      "display_name": "Plague Inc: Evolved",
+      "game_id": "game-plague-inc-evolved",
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/246620/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Ndemic Creations",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 1474889673,
+          "folder": "PPCH/10",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-plague-inc-evolved-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nOS *: Windows 8 (64 Bit)\nProcessor: 2.0 GHz Dual Core Processor\nMemory: 1 GB RAM\nGraphics: Integrated Graphics (512MB)\nStorage: 500 MB available space\nAdditional Notes: Additional Notes: Requires a system running DirectX 11 as a minimum. Graphics cards over 10 years old may find some graphics display issues. Unsupported video chipsets: Intel HD Graphics 3000, Intel GMA X3100, Intel GMA 950.",
+      "requirements_rec": "Recommended:\nOS: Windows 10 (64 Bit)\nProcessor: 3.0GHz i5 Dual Core or equivalent\nMemory: 2 GB RAM\nGraphics: Nvidia GeForce GTX 650 Radeon HD 3600 (1GB)\nStorage: 1 GB available space\nAdditional Notes: Additional Notes: Requires a system running DirectX 11 as a minimum. Graphics cards over 10 years old may find some graphics display issues. Unsupported video chipsets: Intel HD Graphics 3000, Intel GMA X3100, Intel GMA 950.",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/ss_9a5c4d45543113ad9de9d9b928f6fadf1fa17d25.1920x1080.jpg?t=1779100239",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/ss_7feb2722dd1e712cb5af17356fcec7fa393a2339.1920x1080.jpg?t=1779100239",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/ss_b0d8d993edec2bfb764d0748de6f27eeded7c7af.1920x1080.jpg?t=1779100239",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/ss_56ede6cad5f4e6732a4640416716bb1642e8fa21.1920x1080.jpg?t=1779100239",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/ss_9b2d47bdc35e3ba84288f33c3b6889c1929563de.1920x1080.jpg?t=1779100239",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/ss_936c4e4dee5b9ccb96a7817dc7dafc6d42261cfb.1920x1080.jpg?t=1779100239",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/ss_82ad45832152ec6711a2b7349c6500439cb0eaff.1920x1080.jpg?t=1779100239",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246620/ss_af0ade6a41421fcf738413bca043e2b3e201398a.1920x1080.jpg?t=1779100239"
+      ],
+      "sort_name": "Plague Inc Evolved",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2031139/movie_max.mp4"
     }
   ],
-  "generated_at": 1782574985,
+  "generated_at": 1782575661,
   "schema_version": 2
 }
