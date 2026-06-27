@@ -1,6 +1,55 @@
 {
   "games": [
     {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/page_bg_raw.jpg?t=1782407144",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1063660/library_600x900.jpg",
+      "description": "Bendy and the Dark Revival® is a first-person survival horror game set in the creepiest cartoon studio to ever exist. Discover the truth. Escape the studio. Above all, fear the Ink Demon…and survive.",
+      "developer": "Joey Drew Studios",
+      "display_name": "Bendy and the Dark Revival",
+      "game_id": "game-bendy-and-the-dark-revival",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1063660/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Joey Drew Studios",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 11475081763,
+          "folder": "PPCH/8",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-bendy-and-the-dark-revival-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 (64 bit)\nMemory: 8 GB RAM\nGraphics: 2GB VRAM GeForce GTX 1030, AMD RX 550\nDirectX: Version 11\nStorage: 15 GB available space",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 10 (64 bit)\nMemory: 16 GB RAM\nGraphics: 8GB VRAM GeForce RTX 2080, AMD Radeon VII\nDirectX: Version 12\nStorage: 15 GB available space",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_b6710c3172a662ca82d479ba2f492599c9e30d31.1920x1080.jpg?t=1782407144",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_b101f99a5414de86daa7c869ef5cb4df9d3eac32.1920x1080.jpg?t=1782407144",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_cb2060d8212571f8a139d1fb8e9735f44ba1d818.1920x1080.jpg?t=1782407144",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_c7517d3af898604b2a13742b7b532c6d97430614.1920x1080.jpg?t=1782407144",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_f1586c7893d742c18147e62ea2ae111d893e5c3d.1920x1080.jpg?t=1782407144",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_e78b599cb924628275f137b6329fc1d7e238a754.1920x1080.jpg?t=1782407144",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_189a6adb4ffa6bb671a0d2369e58edf580cb0447.1920x1080.jpg?t=1782407144",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_f70622b691d69ea4fc1d8017c080e44216e56d2b.1920x1080.jpg?t=1782407144"
+      ],
+      "sort_name": "Bendy and the dark revival",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257067489/movie_max.mp4"
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/622650/page_bg_raw.jpg?t=1782407141",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/622650/library_600x900.jpg",
       "description": "Bendy and the Ink Machine® is the first person puzzle action horror game that will forever ruin your childhood love of cartoons.",
@@ -151,6 +200,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2028977/movie_max.mp4"
     }
   ],
-  "generated_at": 1782573944,
+  "generated_at": 1782574524,
   "schema_version": 2
 }
