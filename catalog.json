@@ -399,8 +399,56 @@
       ],
       "sort_name": "Plague Inc Evolved",
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2031139/movie_max.mp4"
+    },
+    {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/250900?t=1731977365",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/library_600x900.jpg",
+      "description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+      "developer": "Nicalis, Inc.",
+      "display_name": "The Binding of Isaac: Rebirth",
+      "game_id": "game-the-binding-of",
+      "genres": [
+        "Action"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Nicalis, Inc.",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 2075200715,
+          "folder": "PPCH/13",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-the-binding-of-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nOS: XP\nProcessor: Core 2 Duo\nMemory: 2 GB RAM\nGraphics: Discreet video card\nStorage: 449 MB available space\nSound Card: Yes",
+      "requirements_rec": "Recommended:\nOS *: Windows 8 / 7 / Vista / XP\nProcessor: 2.4 GHz Quad Core 2.0 (or higher)\nMemory: 8 GB RAM\nGraphics: Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up\nStorage: 449 MB available space\nSound Card: Yes",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_25a4a446a433218d41a7e87e35b60c297e68e7a4.1920x1080.jpg?t=1731977365",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_19ef624e8d97136ba6f928d389b85f7b8130c37a.1920x1080.jpg?t=1731977365",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_9fa4199fa93cb8b1edd8780fa6ce9e80d2bfb503.1920x1080.jpg?t=1731977365",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_008a76bd0ab314c8140dd1a7ec61090c122d1779.1920x1080.jpg?t=1731977365",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_b146a76ac5348e1cf958c3d01834e13b33c4e561.1920x1080.jpg?t=1731977365",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_89aa019b678e96fd13367a5fda6145ed0bc79fce.1920x1080.jpg?t=1731977365",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_8961974abd6a3791efd74fbb6e57b4935e494500.1920x1080.jpg?t=1731977365",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/ss_b6d9427fc6c63f0fe12922ea60609344af241631.1920x1080.jpg?t=1731977365"
+      ],
+      "sort_name": "the binding of",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2034156/movie_max.mp4"
     }
   ],
-  "generated_at": 1782583324,
+  "generated_at": 1782588336,
   "schema_version": 2
 }
