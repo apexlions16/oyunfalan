@@ -101,6 +101,56 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257137368/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232610/page_bg_raw.jpg?t=1782407147",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3232610/library_600x900.jpg",
+      "description": "Bendy: Lone Wolf® tests your ability to survive against ever increasing odds. Monsters and obstacles emerge from every direction as you journey into the rubberhose halls of the world's most evil animation studio, set during the events of Bendy and the Dark Revival®. Every day is a challenge.",
+      "developer": "Joey Drew Studios",
+      "display_name": "Bendy: Lone Wolf",
+      "game_id": "game-bendy-lone-wolf",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3232610/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Joey Drew Studios",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 2079067794,
+          "folder": "PPCH/9",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-bendy-lone-wolf-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 (64 bit)\nProcessor: i5\nMemory: 4 GB RAM\nGraphics: GTX 770\nDirectX: Version 11\nStorage: 2 GB available space",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232610/ss_dc81c0a5fa9405aaa65320a68b67ce9edb389975.1920x1080.jpg?t=1782407147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232610/ss_2c42d636a64fe7e3cf42cf858bea10d1921f927b.1920x1080.jpg?t=1782407147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232610/ss_ac47457e0bc96301206970cfa237af2bfa12f47a.1920x1080.jpg?t=1782407147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232610/ss_b3ca2d702024617d3d78ae8a1cbb1448961b39cc.1920x1080.jpg?t=1782407147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232610/ss_e9f93a0cc471fcfc02a1892145992eb06808738f.1920x1080.jpg?t=1782407147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232610/ss_9dcb474639156c5f976d4c420bf1d92c1002c564.1920x1080.jpg?t=1782407147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232610/ss_ca7aa8660c861b4d0c4145e0d6dfd0dc3995f252.1920x1080.jpg?t=1782407147",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232610/ss_9c56eff6ba703ac324d74da5ec0f1aa69b76ee67.1920x1080.jpg?t=1782407147"
+      ],
+      "sort_name": "BENDY LONE WOLF",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257165620/movie_max.mp4"
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/5ce35cb7c29431e9c58ec2228f6eaa8842953bc2/page_bg_raw.jpg?t=1782238812",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2483190/library_600x900.jpg",
       "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
@@ -200,6 +250,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2028977/movie_max.mp4"
     }
   ],
-  "generated_at": 1782574567,
+  "generated_at": 1782574985,
   "schema_version": 2
 }
