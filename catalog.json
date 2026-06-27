@@ -46,7 +46,7 @@
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_189a6adb4ffa6bb671a0d2369e58edf580cb0447.1920x1080.jpg?t=1782407144",
         "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/ss_f70622b691d69ea4fc1d8017c080e44216e56d2b.1920x1080.jpg?t=1782407144"
       ],
-      "sort_name": "Bendy and the dark revival",
+      "sort_name": "Bendy and the Dark Revival",
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257067489/movie_max.mp4"
     },
     {
@@ -200,6 +200,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2028977/movie_max.mp4"
     }
   ],
-  "generated_at": 1782574524,
+  "generated_at": 1782574567,
   "schema_version": 2
 }
