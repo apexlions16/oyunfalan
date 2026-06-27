@@ -49,8 +49,57 @@
       ],
       "sort_name": "ForzaHorizon6",
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257344384/movie_max.mp4"
+    },
+    {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/page_bg_raw.jpg?t=1678266428",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/library_600x900.jpg",
+      "description": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.",
+      "developer": "Lucas Pope",
+      "display_name": "Papers, Please",
+      "game_id": "game-papersplease",
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "3909",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 90728072,
+          "folder": "PPCH/6",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-papersplease-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS *: Windows XP or later\nProcessor: 1.5 GHz Core2Duo\nMemory: 2 GB RAM\nGraphics: OpenGL 1.4 or better\nStorage: 100 MB available space\nAdditional Notes: Minimum 1280x720 screen resolution",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_4cd77e3ef5b147b011a5cf8f96b8bcbcd79b3e15.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_a1d08145ac2d3e85e8db440ccfeb7f7ad3c8247a.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_4b50458fbc4afe2917803b59a35afb3e5d61c960.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_958285f31774906eb4def9d98a83e7926ceb3be2.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_d24155eecb65aaff7367b791bc7d4910fe59b303.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_6c095a8ff86f9ebf8f796d23b1186c176fd21991.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_4a533fbcd53d15778d477d8417fb28f814e27210.1920x1080.jpg?t=1678266428",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/ss_cbff6dd781b30221f0a2308abf7f5bc16a63e3aa.1920x1080.jpg?t=1678266428"
+      ],
+      "sort_name": "PapersPlease",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2028977/movie_max.mp4"
     }
   ],
-  "generated_at": 1782572261,
+  "generated_at": 1782573096,
   "schema_version": 2
 }
