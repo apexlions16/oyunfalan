@@ -499,8 +499,58 @@
       ],
       "sort_name": "the binding of",
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2034156/movie_max.mp4"
+    },
+    {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/bee90b718d99af2b426526bcf0fb3c8e715bfcb8/page_bg_raw.jpg?t=1781096909",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/library_600x900.jpg",
+      "description": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you. Be the bullet hell!",
+      "developer": "poncle",
+      "display_name": "Vampire Survivors",
+      "game_id": "game-vampire-survivors",
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "poncle",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 1754373541,
+          "folder": "PPCH/15",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-vampire-survivors-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64bit\nProcessor: x64 architecture with SSE2 instruction set support\nMemory: 1 GB RAM\nGraphics: DX11, DX12 capable\nStorage: 2500 MB available space",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6c55afe36be2a7784bf18cb9b3218321ae2d10e5.1920x1080.jpg?t=1781096909",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_6105ad3d6af52593c31d915bf39e91512611ea8e.1920x1080.jpg?t=1781096909",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_054159adc52856d066d48bda02866da524c43439.1920x1080.jpg?t=1781096909",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_01ec75b8055dbaa6895a0be127508ff569917a1e.1920x1080.jpg?t=1781096909",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bf22b444801d96026863fcf284f9f93441354035.1920x1080.jpg?t=1781096909",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_bea7831ae00c044d9cd31c3f8e0fee766b4fe1c6.1920x1080.jpg?t=1781096909",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794680/ss_3e82b3bdc06e40b15252490c25a9afe09a086fdf.1920x1080.jpg?t=1781096909"
+      ],
+      "sort_name": "VAMPIRE SURVIVORS",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782678186,
+  "generated_at": 1782678730,
   "schema_version": 2
 }
