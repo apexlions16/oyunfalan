@@ -299,6 +299,56 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257344384/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/page_bg_raw.jpg?t=1758127023",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/library_600x900.jpg",
+      "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+      "developer": "Supergiant Games",
+      "display_name": "Hades",
+      "game_id": "game-hades",
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Supergiant Games",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 11953863530,
+          "folder": "PPCH/17",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-hades-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nOS *: Windows 7 SP1\nProcessor: Dual Core 2.4 GHz\nMemory: 4 GB RAM\nGraphics: 1GB VRAM / DirectX 10+ support\nStorage: 15 GB available space",
+      "requirements_rec": "Recommended:\nOS *: Windows 7 SP1\nProcessor: Dual Core 3.0 GHz+\nMemory: 8 GB RAM\nGraphics: 2GB VRAM / DirectX 10+ support\nStorage: 20 GB available space",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_c0fed447426b69981cf1721756acf75369801b31.1920x1080.jpg?t=1758127023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_8a9f0953e8a014bd3df2789c2835cb787cd3764d.1920x1080.jpg?t=1758127023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_68300459a8c3daacb2ec687adcdbf4442fcc4f47.1920x1080.jpg?t=1758127023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_bcb499a0dd001f4101823f99ec5094d2872ba6ee.1920x1080.jpg?t=1758127023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_8e07e477fa7ff2f88c8984bc89b9652a655da0e9.1920x1080.jpg?t=1758127023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_34e6660705cfe47d2b2f95189c37f7cb77f75ca6.1920x1080.jpg?t=1758127023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_217b70678a2eea71a974fba1a4cd8baa660581bb.1920x1080.jpg?t=1758127023",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/ss_5e52844b891b54608eb51a850d6b53313eeed0f7.1920x1080.jpg?t=1758127023"
+      ],
+      "sort_name": "HADES",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256801252/movie_max.mp4"
+    },
+    {
       "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2527500?t=1781766453",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/library_600x900.jpg",
       "description": "Let's imagine that you have a game in which you care for a character. But could you imagine one day getting into that game yourself?",
@@ -600,6 +650,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782680266,
+  "generated_at": 1782689587,
   "schema_version": 2
 }
