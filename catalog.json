@@ -301,6 +301,58 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257088481/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/page_bg_raw.jpg?t=1764252300",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/library_600x900.jpg",
+      "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+      "developer": "TaleWorlds Entertainment",
+      "display_name": "Mount & Blade II: Bannerlord",
+      "game_id": "game-mount-and-blade-bannerlord",
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "TaleWorlds Entertainment",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 97688404307,
+          "folder": "PPCH/14",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-mount-and-blade-bannerlord-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS *: Windows 7 (64-bit only)\nProcessor: IntelÂ® Coreâ¢ i3-8100 / AMD Ryzenâ¢ 3 1200 / Snapdragon X Elite\nMemory: 6 GB RAM\nGraphics: IntelÂ® UHD Graphics 630 / NVIDIAÂ® GeForceÂ® GTX 660 2GB / AMD Radeonâ¢ HD 7850 2GB\nStorage: 60 GB available space\nAdditional Notes: Integrated GPUs require additional 2GB of system RAM.",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 10 (64-bit only)\nProcessor: IntelÂ® Coreâ¢ i5-9600K / AMD Ryzenâ¢ 5 3600X\nMemory: 8 GB RAM\nGraphics: NVIDIAÂ® GeForceÂ® GTX 1060 3GB / AMD Radeonâ¢ RX 580\nStorage: 60 GB available space\nAdditional Notes:",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_569257e92fd31d58a6fe08053de637071b4518d3.1920x1080.jpg?t=1764252300",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_9682cf43bf605e9c655c1dbb4b23d1aac73165dc.1920x1080.jpg?t=1764252300",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_4c9270723717c633c9ec16fa394dab82a071f41c.1920x1080.jpg?t=1764252300",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_1ab88f5c0198a16f75db23af8477811c0996b864.1920x1080.jpg?t=1764252300",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_7858b1826060b9344b35569e027f6441f146e6aa.1920x1080.jpg?t=1764252300",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_69922060ef35debd2a1f00060c81c66e4b9bd5a8.1920x1080.jpg?t=1764252300",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_eda4ec26be60bf8a1787db9b37e609e41e42ec21.1920x1080.jpg?t=1764252300",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/ss_2885840eb2e4a2b4a00acb8a8a40baac41b33cfd.1920x1080.jpg?t=1764252300"
+      ],
+      "sort_name": "MOUNT AND BLADE BANNERLORD",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256910718/movie_max.mp4"
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/page_bg_raw.jpg?t=1678266428",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/library_600x900.jpg",
       "description": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.",
@@ -449,6 +501,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2034156/movie_max.mp4"
     }
   ],
-  "generated_at": 1782588336,
+  "generated_at": 1782678186,
   "schema_version": 2
 }
