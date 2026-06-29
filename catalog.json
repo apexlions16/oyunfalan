@@ -446,6 +446,52 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256801252/movie_max.mp4"
     },
     {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/247430?t=1744238518",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/247430/library_600x900.jpg",
+      "description": "Enter the world of a HITMAN - a world of crime, sin and greed. Delve into the mind of Agent 47 and encounter his greatest adversaries, completing the work that made him so brutally efficient and shaped him as an assassin. Eliminate your targets by any means necessary. There are no rules... only the contract, signed in blood.",
+      "developer": "Io-Interactive A/S",
+      "display_name": "Hitman: Contracts",
+      "game_id": "game-hitman-contracts",
+      "genres": [
+        "Action"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/247430/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Io-Interactive A/S",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 954703521,
+          "folder": "PPCH/20",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-hitman-contracts-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nOS *: Windows 98/2000/ME/XP\nProcessor: Pentium III 800MHz\nMemory: 256 MB RAM\nGraphics: 100% DirectX 8.1 compatible 3D accelerator video card with at least 32Mb RAM\nDirectX: Version 8.1\nStorage: 2 GB available space",
+      "requirements_rec": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247430/ss_37bfc8c7032d223afe55f3e2b67ed8ac04e333f0.1920x1080.jpg?t=1744238518",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247430/ss_108236c8837d049ba280f99a1c38ad14691933c6.1920x1080.jpg?t=1744238518",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247430/ss_a0128041a58de55ce22c995e72a23d59cd71ab44.1920x1080.jpg?t=1744238518",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247430/ss_700311318205b0f4468a5469010f0d8824970d98.1920x1080.jpg?t=1744238518",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247430/ss_3c272f71529cc8428d34f673a7c0a228dbb28581.1920x1080.jpg?t=1744238518",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/247430/ss_dccca26f3cd06c7476412cb53608184289d41339.1920x1080.jpg?t=1744238518"
+      ],
+      "sort_name": "Hitman Contracts",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2527500?t=1781766453",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/library_600x900.jpg",
       "description": "Let's imagine that you have a game in which you care for a character. But could you imagine one day getting into that game yourself?",
@@ -747,6 +793,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782760000,
+  "generated_at": 1782760635,
   "schema_version": 2
 }
