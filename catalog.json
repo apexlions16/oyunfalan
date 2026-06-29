@@ -881,6 +881,58 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2031139/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/page_bg_raw.jpg?t=1773974661",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/library_600x900.jpg",
+      "description": "From small-time dope pusher to kingpin - manufacture and distribute a range of drugs throughout the grungy city of Hyland Point. Expand your empire with properties, businesses, employees and more.",
+      "developer": "TVGS",
+      "display_name": "Schedule I",
+      "game_id": "game-schedule",
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Strategy",
+        "Early Access"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3164500/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "TVGS",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 7947941493,
+          "folder": "PPCH/25",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-schedule-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 (64-bit)\nProcessor: 3GHz 4-Core or similar\nMemory: 8 GB RAM\nGraphics: GeForce GTX 1060 or Radeon RX 580\nStorage: 8 GB available space",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 10 (64-bit)\nProcessor: 3.5GHz 6-Core or similar\nMemory: 16 GB RAM\nGraphics: GeForce RTX 3060 or Radeon RX 6700\nStorage: 8 GB available space",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/ss_74961b6f52d7694b12c272c37d69551fc08a1ccb.1920x1080.jpg?t=1773974661",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/cf6f4630aec1f9065da3352532e5094613b35975/ss_cf6f4630aec1f9065da3352532e5094613b35975.1920x1080.jpg?t=1773974661",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/b63fe62bed217f2852a2e712b4c57faef67f6b19/ss_b63fe62bed217f2852a2e712b4c57faef67f6b19.1920x1080.jpg?t=1773974661",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/c5d4057a82c0a72092494e0e7ba3188e22dfe477/ss_c5d4057a82c0a72092494e0e7ba3188e22dfe477.1920x1080.jpg?t=1773974661",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/ss_a9b00612e3e3bbc111a6dc53a5a861d38b77c9df.1920x1080.jpg?t=1773974661",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/c792894199193adc8b04cf16b2fec45c5701b0f2/ss_c792894199193adc8b04cf16b2fec45c5701b0f2.1920x1080.jpg?t=1773974661",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/550e3601d7d6515670e82e474bb2a8375a54b361/ss_550e3601d7d6515670e82e474bb2a8375a54b361.1920x1080.jpg?t=1773974661",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/ss_0ad331417cf9010ae304f9a349806f04b8ce6a41.1920x1080.jpg?t=1773974661"
+      ],
+      "sort_name": "Schedule ",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257080424/movie_max.mp4"
+    },
+    {
       "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/250900?t=1731977365",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/library_600x900.jpg",
       "description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
@@ -979,6 +1031,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782766040,
+  "generated_at": 1782766854,
   "schema_version": 2
 }
