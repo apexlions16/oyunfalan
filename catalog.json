@@ -491,6 +491,54 @@
       "trailer_url": null
     },
     {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/203140?t=1734461136",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/203140/library_600x900.jpg",
+      "description": "The original assassin is back! Betrayed by the Agency and hunted by the police, Agent 47 finds himself pursuing redemption in a corrupt and twisted world.",
+      "developer": "Io-Interactive A/S",
+      "display_name": "Hitman: Absolution™",
+      "game_id": "game-hitman-absolution",
+      "genres": [
+        "Action"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/203140/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Io-Interactive A/S",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 27355840822,
+          "folder": "PPCH/23",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-hitman-absolution-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nOS *: Windows Vista, 7\nProcessor: True dual core CPU (Intel, AMD)\nHard Drive Space: 24GB\nMemory: 2 GB RAM\nVideo Card: NV8600 512 Mb RAM, or AMD equivalent\nDirectXÂ®: 10",
+      "requirements_rec": "Recommended:\nOS *: Windows 7 64-bit\nProcessor: Intel Core i7 or AMD Athlon II X4\nHard Drive Space: 24GB\nMemory: 4 GB RAM\nVideo Card: NVIDIA GeForce GTX 260 or ATI Radeon HD 5770\nDirectXÂ®: 11",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/ss_02033e4c2383bee25e72d2591fac1b436f5483f4.1920x1080.jpg?t=1734461136",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/ss_9474fb068b723003f15ee205e05f819f116cc64a.1920x1080.jpg?t=1734461136",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/ss_d0fc1f2950ca1a4c02ac9b79f82977783d3aee04.1920x1080.jpg?t=1734461136",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/ss_7d091c81c962cef3c4f5a1044a068cfe0afffa49.1920x1080.jpg?t=1734461136",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/ss_c315fe5dfeb97a7105d75595ae0202421e020d07.1920x1080.jpg?t=1734461136",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/ss_67dd8f7a1bb731f013d167d0570aac7d064d12cc.1920x1080.jpg?t=1734461136",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/ss_6651474a83682dec029aebc3858ef366524f2052.1920x1080.jpg?t=1734461136",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203140/ss_c38bf9ed35bb75729c2959c1c9b89711765130af.1920x1080.jpg?t=1734461136"
+      ],
+      "sort_name": "Hitman Absolution",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2028135/movie_max.mp4"
+    },
+    {
       "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/6860?t=1732283123",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/6860/library_600x900.jpg",
       "description": "Money Talks. Silence Pays. Prepare to Make a Killing. When assassins from Agent 47's contract agency, The ICA, are eliminated in a series of hits, it seems a larger, more powerful agency has entered the fray. Sensing he may be a target, 47 travels to America, and prepares to make a killing.",
@@ -886,6 +934,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782761968,
+  "generated_at": 1782765498,
   "schema_version": 2
 }
