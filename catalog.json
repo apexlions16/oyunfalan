@@ -587,6 +587,51 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/950/movie_max.mp4"
     },
     {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/6900?t=1732283914",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/6900/library_600x900.jpg",
+      "description": "As the enigmatic Hitman, you must use stealth and tactical problem solving to enter, execute and exit your assignment with minimum attention and maximum effectiveness. For a price, you have access to the most devious devices, but how you use them will determine if you retire as a millionaire or get permanently retired.",
+      "developer": "IO Interactive A/S",
+      "display_name": "Hitman: Codename 47",
+      "game_id": "game-hitman-codename",
+      "genres": [
+        "Action"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/6900/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "IO Interactive A/S",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 384776538,
+          "folder": "PPCH/24",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-hitman-codename-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nOS: Microsoft Windows 95/98/ME\nProcessor: Pentium II 300 MHz\nMemory: 64 MB RAM\nGraphics: 100% DirectX 7.0a-compatible 3d Accelerated Card with 12MB VRAM\nDirectX: Version 7.0a\nStorage: 400 MB available space\nSound Card: 100% DirectX 7.0a-compatible Sound Card\nAdditional Notes: 100% Windows 95/98/ME compatible mouse and keyboard",
+      "requirements_rec": "Recommended:\nOS: Microsoft Windows 95/98/ME\nProcessor: Pentium III equivalent or greater\nMemory: 128 MB RAM\nGraphics: 100% DirectX 7.0a-compatible 3d Accelerated Card with 32 MB VRAM\nDirectX: Version 7.0a\nStorage: 400 MB available space\nSound Card: 100% DirectX 7.0a-compatible Sound Card\nAdditional Notes: 100% Windows 95/98/ME compatible mouse and keyboard",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6900/0000001540.1920x1080.jpg?t=1732283914",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6900/0000001541.1920x1080.jpg?t=1732283914",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6900/0000001542.1920x1080.jpg?t=1732283914",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6900/0000001543.1920x1080.jpg?t=1732283914",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6900/0000001544.1920x1080.jpg?t=1732283914"
+      ],
+      "sort_name": "Hitman codename",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/247430?t=1744238518",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/247430/library_600x900.jpg",
       "description": "Enter the world of a HITMAN - a world of crime, sin and greed. Delve into the mind of Agent 47 and encounter his greatest adversaries, completing the work that made him so brutally efficient and shaped him as an assassin. Eliminate your targets by any means necessary. There are no rules... only the contract, signed in blood.",
@@ -934,6 +979,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782765498,
+  "generated_at": 1782766040,
   "schema_version": 2
 }
