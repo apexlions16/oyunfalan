@@ -200,6 +200,54 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257165620/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/644eb087007768417a847e52c38eeaf34b57fd12/page_bg_raw.jpg?t=1769690377",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/library_600x900.jpg",
+      "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+      "developer": "CD PROJEKT RED",
+      "display_name": "Cyberpunk 2077",
+      "game_id": "game-cyberpunk",
+      "genres": [
+        "RPG"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "CD PROJEKT RED",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 102015330754,
+          "folder": "PPCH/18",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-cyberpunk-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Core i7-6700 or Ryzen 5 1600\nMemory: 12 GB RAM\nGraphics: GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380\nDirectX: Version 12\nStorage: 70 GB available space\nAdditional Notes: SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Core i7-12700 or Ryzen 7 7800X3D\nMemory: 16 GB RAM\nGraphics: GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770\nDirectX: Version 12\nStorage: 70 GB available space\nAdditional Notes: SSD required.",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_2f649b68d579bf87011487d29bc4ccbfdd97d34f.1920x1080.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_0e64170751e1ae20ff8fdb7001a8892fd48260e7.1920x1080.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_af2804aa4bf35d4251043744412ce3b359a125ef.1920x1080.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_7924f64b6e5d586a80418c9896a1c92881a7905b.1920x1080.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_4eb068b1cf52c91b57157b84bed18a186ed7714b.1920x1080.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_b529b0abc43f55fc23fe8058eddb6e37c9629a6a.1920x1080.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.1920x1080.jpg?t=1769690377",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/ss_9284d1c5b248726760233a933dbb83757d7d5d95.1920x1080.jpg?t=1769690377"
+      ],
+      "sort_name": "Cyberpunk",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257081132/movie_max.mp4"
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/page_bg_raw.jpg?t=1782314340",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1671210/library_600x900.jpg",
       "description": "Dive into the parallel story to UNDERTALE! Fight or spare your way through action-packed battles as you explore a mysterious world alongside an endearing cast of new and familiar characters. Chapters 1-5 are available now, with more planned as free updates!",
@@ -650,6 +698,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782689587,
+  "generated_at": 1782749723,
   "schema_version": 2
 }
