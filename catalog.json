@@ -396,6 +396,56 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257344384/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/page_bg_raw.jpg?t=1781187782",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/library_600x900.jpg",
+      "description": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+      "developer": "Rockstar North",
+      "display_name": "Grand Theft Auto V Enhanced",
+      "game_id": "game-grand-theft-auto-v",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Racing"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Rockstar Games",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 127895560773,
+          "folder": "PPCH/26",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-grand-theft-auto-v-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 (latest service pack)\nProcessor: IntelÂ® Coreâ¢ i7-4770 | AMD FXâ¢-9590\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForceÂ® GTX 1630 (4GB VRAM) | AMD Radeonâ¢ RX 6400 (4GB VRAM)\nStorage: 105 GB available space\nSound Card: DirectX 10 Compatible\nAdditional Notes: SSD Required  |  Over time downloadable content and programming changes will change the system requirements for this game. Please refer to your hardware manufacturer and  for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.  Other requirements: Installation and online play requires log-in to Rockstar Games account (minimum age varies) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Launcher, DirectX, Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication and verification software that recognizes certain hardware attributes for entitlement, digital rights management, anti-cheat and moderation software, system, and other support purposes.  *Compatible PC and/or device required. 3D Audio via Windows Spatial Sound compatible audio systems",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 11\nProcessor: IntelÂ® Coreâ¢ i5-9600K | AMD Ryzenâ¢ 5 3600\nMemory: 16 GB RAM\nGraphics: NVIDIA GeForceÂ® RTX 3060 (8GB VRAM) | AMD Radeonâ¢ RX 6600XT (8GB VRAM)\nStorage: 105 GB available space\nSound Card: Windows Spatial Sound-compatible audio system; solution containing Dolby AtmosÂ® support required for a Dolby AtmosÂ® experience\nAdditional Notes: SSD with DirectStorage-compatibility",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/d61184a98c1cf2db2b08b2999c04b0519e3615bb/ss_d61184a98c1cf2db2b08b2999c04b0519e3615bb.1920x1080.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/8340fd391012e12be7e4c02e65801a2648a6b60e/ss_8340fd391012e12be7e4c02e65801a2648a6b60e.1920x1080.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/f2e70b5823510daa062293ff0b03821e1dee2d37/ss_f2e70b5823510daa062293ff0b03821e1dee2d37.1920x1080.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/6959cc5d64cce82cb68a27457cfa46fb4d50f897/ss_6959cc5d64cce82cb68a27457cfa46fb4d50f897.1920x1080.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/0231bf16835cd4f6d83523d76aa8d91cb2dfef9b/ss_0231bf16835cd4f6d83523d76aa8d91cb2dfef9b.1920x1080.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/60690d0fdbd022ab1527ba6d080d42c1812a0f39/ss_60690d0fdbd022ab1527ba6d080d42c1812a0f39.1920x1080.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/cf15774bb38c9b74f9e98c985228510c97df80b6/ss_cf15774bb38c9b74f9e98c985228510c97df80b6.1920x1080.jpg?t=1781187782",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/808b550269f898e227dae2c64b5e026f90da85f9/ss_808b550269f898e227dae2c64b5e026f90da85f9.1920x1080.jpg?t=1781187782"
+      ],
+      "sort_name": "Grand Theft Auto V",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257247680/movie_max.mp4"
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/page_bg_raw.jpg?t=1758127023",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/library_600x900.jpg",
       "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
@@ -1031,6 +1081,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782766854,
+  "generated_at": 1782770428,
   "schema_version": 2
 }
