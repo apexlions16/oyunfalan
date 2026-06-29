@@ -491,6 +491,54 @@
       "trailer_url": null
     },
     {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/6860?t=1732283123",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/6860/library_600x900.jpg",
+      "description": "Money Talks. Silence Pays. Prepare to Make a Killing. When assassins from Agent 47's contract agency, The ICA, are eliminated in a series of hits, it seems a larger, more powerful agency has entered the fray. Sensing he may be a target, 47 travels to America, and prepares to make a killing.",
+      "developer": "Io-Interactive A/S",
+      "display_name": "Hitman: Blood Money",
+      "game_id": "game-hitman-blood-money",
+      "genres": [
+        "Action"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/6860/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Io-Interactive A/S",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 4520632359,
+          "folder": "PPCH/22",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-hitman-blood-money-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nMicrosoft WindowsÂ® 2000/XP (Windows 95/98/ME/NT Not Supported)\nPentium 4 1.5Ghz or Athlon XP Equivalent\n512MB RAM\n100% DirectX 9.0c compatible video card which supports Hardware TnL and Pixel Shader 2.0 (GeForce FX / Radeon 9500 or higher)\n100% DirectX 9.0c Compatible Sound Card\n5.0GB free disk space\n100% Windows 2000/XP compatible Mouse and Keyboard (Gamepads and controller are not supported)\nRecommended:\nPentium 4 2.4Ghz or Athlon XP/64-bit equivalent\n1024MB RAM\nATI X800 series, Nvidia GeForce 6800 series or higher video card\n100% DirectX 9.0c Compatible Sound Card, Sound Blaster X-Fi series\n5.0GB free disk space",
+      "requirements_rec": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/0000001408.1920x1080.jpg?t=1732283123",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/0000001409.1920x1080.jpg?t=1732283123",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/0000001410.1920x1080.jpg?t=1732283123",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/0000001411.1920x1080.jpg?t=1732283123",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/0000001412.1920x1080.jpg?t=1732283123",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/0000001413.1920x1080.jpg?t=1732283123",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/0000001414.1920x1080.jpg?t=1732283123",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6860/0000001415.1920x1080.jpg?t=1732283123"
+      ],
+      "sort_name": "Hitman Blood Money",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/950/movie_max.mp4"
+    },
+    {
       "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/247430?t=1744238518",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/247430/library_600x900.jpg",
       "description": "Enter the world of a HITMAN - a world of crime, sin and greed. Delve into the mind of Agent 47 and encounter his greatest adversaries, completing the work that made him so brutally efficient and shaped him as an assassin. Eliminate your targets by any means necessary. There are no rules... only the contract, signed in blood.",
@@ -838,6 +886,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782761511,
+  "generated_at": 1782761968,
   "schema_version": 2
 }
