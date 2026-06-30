@@ -105,6 +105,54 @@
       "trailer_url": null
     },
     {
+      "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303720/page_bg_raw.jpg?t=1771447424",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/303720/library_600x900.jpg",
+      "description": "#KILLALLZOMBIES is an insane twin-stick zombie shooter with Twitch streaming interactions, where you survive hordes of zombies on a dynamically changing arena and spectators may affect gameplay via special Twitch chat commands.",
+      "developer": "Fortell Games",
+      "display_name": "#KILLALLZOMBIES",
+      "game_id": "game-killallzombies",
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/303720/logo.png",
+      "platforms": [
+        "ps4"
+      ],
+      "publisher": "Fortell Games",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 791478508,
+          "folder": "PPCH4/1",
+          "launch": {
+            "adapter": "emulator_profile",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "ps4",
+          "release_id": "release-killallzombies-ps4-CUSA00856 – USA  Game (v1.04)",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "CUSA00856 – USA  Game (v1.04)"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 64-Bit Only\nProcessor: 2.5 GHz\nMemory: 8 GB RAM\nGraphics: Fast graphics (nVidia 480GTX or faster)\nDirectX: Version 9.0c\nStorage: 800 MB available space\nSound Card: DirectX-compatible sound card\nAdditional Notes: Twitch account needed for the streaming interactions gameplay (enter username in Options). Works great on handhelds: Steam Deck, ROG Ally and ROG Ally Xbox, MSI Claw",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 64-Bit Only\nProcessor: 3.0 GHz\nMemory: 16 GB RAM\nGraphics: Fast graphics (nVidia 480GTX or faster)\nDirectX: Version 9.0c\nStorage: 800 MB available space\nSound Card: DirectX-compatible sound card\nAdditional Notes: Twitch account needed for the streaming interactions gameplay (enter username in Options). Works great on handhelds: Steam Deck, ROG Ally and ROG Ally Xbox, MSI Claw",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303720/ss_2b32f9cb0b15efe1fe1c820a7e55f0f74b3decd8.1920x1080.jpg?t=1771447424",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303720/ss_23cb874625017d13de74dab7eaab44dda4ff94d1.1920x1080.jpg?t=1771447424",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303720/ss_12b1a8606c22f5d992555f4c780928e1310cdee4.1920x1080.jpg?t=1771447424",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303720/ss_4e3e17616009216b103db49c9b568d6c77da0d04.1920x1080.jpg?t=1771447424",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303720/ss_9f96e5d6b03cf7478a7020d94c7d9d1d84ede1fc.1920x1080.jpg?t=1771447424",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303720/ss_0569f4948d51f04f9c52487adb509d9821d8f54c.1920x1080.jpg?t=1771447424",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/303720/ss_92149b34362e58b845eb432bff5a9727d3938fc6.1920x1080.jpg?t=1771447424"
+      ],
+      "sort_name": "#KILLALLZOMBIES",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257216246/movie_max.mp4"
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239030/page_bg_raw.jpg?t=1678266428",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/library_600x900.jpg",
       "description": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.",
@@ -154,6 +202,6 @@
       "trailer_url": null
     }
   ],
-  "generated_at": 1782816270,
+  "generated_at": 1782816455,
   "schema_version": 2
 }
