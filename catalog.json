@@ -90,6 +90,55 @@
       "trailer_url": "https://video.fastly.steamstatic.com/store_trailers/15100/1029/f0126aa91a6328d9592aec7d5ad2210429b35078/1750484536/microtrailer.mp4"
     },
     {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/33230?t=1682004272",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/33230/library_600x900.jpg",
+      "description": "An epic story of family, vengeance and conspiracy set in the pristine, yet brutal, backdrop of a Renaissance Italy. New low price!",
+      "developer": "Ubisoft Montreal",
+      "display_name": "Assassin's Creed 2",
+      "game_id": "game-assassins-creed-ii",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/33230/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Ubisoft",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 7276490366,
+          "folder": "PPCH/35",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-assassins-creed-ii-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nOS *: WindowsÂ® XP (32-64 bits) /Windows VistaÂ®(32-64 bits)*\nProcessor: Intel CoreÂ® 2 Duo 1.8 GHZ or AMD Athlon X2 64 2.4GHZ\nMemory: 1.5 GB  WindowsÂ® XP / 2 GB Windows VistaÂ® - Windows 7Â®\nGraphics: 256 MB DirectXÂ®  9.0âcompliant card with Shader Model 3.0 or higher (see supported list)\nDirectXÂ®: DirectX 9.0\nHard Drive: 8 GB free space\nSound: DirectX 9.0 âcompliant sound card\nSupported Peripherals: Keyboard, mouse, optional controller\n* This product does not support WindowsÂ® 98/ME/2000/NT\nSupported Video Cards at Time of Release: ATIÂ® RADEONÂ®  X1950, HD 2000/3000/4000/5000 series NVIDIA GeForceÂ® 7/8/9/100/200 series",
+      "requirements_rec": "Recommended:\nOS *: WindowsÂ® XP (32-64 bits) /Windows VistaÂ®(32-64 bits)*\nProcessor: Intel CoreÂ® 2 Duo E6700 2.6 GHz or AMD Athlon 64 X2 6000+ or better\nMemory: 1.5 GB  WindowsÂ® XP / 2 GB Windows VistaÂ® - Windows 7Â®\nGraphics: GeForce 8800 GT or ATI Radeon HD 4700  or better\nDirectXÂ®: DirectX 9.0\nHard Drive: 8 GB free space\nSound: 5.1 sound card\nSupported Peripherals: Keyboard, mouse, joystick optional (Xbox 360Â® Controller for Windows recommended)",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_dd6a4d319cda32c24a4e16a0a62908e82673f458.1920x1080.jpg?t=1682004272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_ef44b9f703f71acfdeb728a497390d397084ee35.1920x1080.jpg?t=1682004272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_d3967a58038cc5e59332bb0043ab1ca343112bc6.1920x1080.jpg?t=1682004272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_627e52a3466b4932ca3d331db6922d165002edaa.1920x1080.jpg?t=1682004272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_cd8d91454014900f3360f2818d94e3aa0c22ffd3.1920x1080.jpg?t=1682004272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_2683f7aa974a6f569ec0f8a2fa0447259aed6b80.1920x1080.jpg?t=1682004272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_c4eab0b3aa24357e97cda4afa2c10605ff94602c.1920x1080.jpg?t=1682004272",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33230/ss_5f558da23f7a18f176c15bd0a6c87b5086b2cda4.1920x1080.jpg?t=1682004272"
+      ],
+      "sort_name": "Assassins Creed II",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/5365/movie_max.mp4"
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/page_bg_raw.jpg?t=1782407144",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1063660/library_600x900.jpg",
       "description": "Bendy and the Dark Revival® is a first-person survival horror game set in the creepiest cartoon studio to ever exist. Discover the truth. Escape the studio. Above all, fear the Ink Demon…and survive.",
@@ -1429,6 +1478,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782823559,
+  "generated_at": 1782824053,
   "schema_version": 2
 }
