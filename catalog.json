@@ -526,6 +526,47 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257247680/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12110/library_hero_2x.jpg",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12110/library_600x900_2x.jpg",
+      "description": "Welcome to Vice City. Welcome to the 1980s. From the decade of big hair, excess and pastel suits comes a story of one man's rise to the top of the criminal pile.",
+      "developer": null,
+      "display_name": "Grand Theft Auto Vice City",
+      "game_id": "game-grand-theft-auto-vice-city",
+      "genres": [],
+      "logo_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12110/logo_2x.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": null,
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 1619131437,
+          "folder": "PPCH/29",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-grand-theft-auto-vice-city-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": null,
+      "requirements_rec": null,
+      "screenshots": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12110/0000003313.jpg",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12110/0000003314.jpg",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12110/0000003315.jpg"
+      ],
+      "sort_name": "Grand Theft Auto Vice City",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/page_bg_raw.jpg?t=1758127023",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/library_600x900.jpg",
       "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
@@ -1161,6 +1202,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782819562,
+  "generated_at": 1782819808,
   "schema_version": 2
 }
