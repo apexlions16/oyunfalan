@@ -396,6 +396,46 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257344384/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12100/library_hero_2x.jpg",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12100/library_600x900_2x.jpg",
+      "description": "Welcome to Liberty City. Where it all began. With stellar voice acting, a darkly comic storyline, a stunning soundtrack and revolutionary open-world gameplay, Grand Theft Auto III is the game that defined the open world genre for a generation.",
+      "developer": null,
+      "display_name": "Grand Theft Auto III",
+      "game_id": "game-grand-theft-auto-iii",
+      "genres": [],
+      "logo_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12100/logo_2x.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": null,
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 1351339774,
+          "folder": "PPCH/28",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-grand-theft-auto-iii-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": null,
+      "requirements_rec": null,
+      "screenshots": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12100/0000003296.jpg",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12100/0000003298.jpg"
+      ],
+      "sort_name": "Grand Theft Auto III",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/library_hero.jpg",
       "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/capsule_616x353.jpg?t=1634144450",
       "description": "Grand Theft Auto : San Andreas",
@@ -1121,6 +1161,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782819240,
+  "generated_at": 1782819562,
   "schema_version": 2
 }
