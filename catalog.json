@@ -522,6 +522,52 @@
       "trailer_url": null
     },
     {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1547000?t=1781138712",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1547000/library_600x900.jpg",
+      "description": "Grand Theft Auto: San Andreas: It’s the early ’90s. After a couple of cops frame him for homicide, Carl ‘CJ’ Johnson is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets.",
+      "developer": "Rockstar Games",
+      "display_name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+      "game_id": "game-grand-theft-auto-san-andreas-definitive-edition",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1547000/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Rockstar Games",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 20018925035,
+          "folder": "PPCH/31",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-grand-theft-auto-san-andreas-definitive-edition-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: IntelÂ® Coreâ¢ i5-6600K / AMD FX-6300\nMemory: 8GB GB RAM\nGraphics: Nvidia GeForce GTX 760 2GB / AMD Radeon R9 280 3GB\nStorage: 19 GB available space\nSound Card: Direct X Compatible",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: IntelÂ® Coreâ¢ i7-6600K / AMD Ryzen 5 2600\nMemory: 16 GB RAM\nGraphics: Nvidia GeForce GTX 970 4GB / AMD Radeon RX 570 4GB\nStorage: 19 GB available space\nSound Card: Direct X Compatible",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_1a8e1aff75d059f19e3bf673ff2183344bbadbb4.1920x1080.jpg?t=1781138712",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_a274e6069b8a242ea37cfdd37b7a2fb01fae9315.1920x1080.jpg?t=1781138712",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_5632eb13385bedc68823e8db8813fddf54acb40d.1920x1080.jpg?t=1781138712",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_89224e9f19e2caee31985f62c6e39e9e67b4f2a4.1920x1080.jpg?t=1781138712",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_2cffd45fcece180581c80eddce5c6361531b8742.1920x1080.jpg?t=1781138712"
+      ],
+      "sort_name": "Grand Theft Auto San Andreas Definitive Edition",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/page_bg_raw.jpg?t=1781187782",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/library_600x900.jpg",
       "description": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
@@ -1248,6 +1294,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782820852,
+  "generated_at": 1782821042,
   "schema_version": 2
 }
