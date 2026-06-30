@@ -436,6 +436,52 @@
       "trailer_url": null
     },
     {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1546970?t=1781138540",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1546970/library_600x900.jpg",
+      "description": "It all starts in Liberty City. With revolutionary freedom to go anywhere and jack anyone, Grand Theft Auto III puts the center of the criminal underworld at your fingertips, if you have enough guts to take it.",
+      "developer": "Rockstar Games",
+      "display_name": "Grand Theft Auto III – The Definitive Edition",
+      "game_id": "game-grand-theft-auto-iii-the-definitive-edition",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1546970/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Rockstar Games",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 4604645782,
+          "folder": "PPCH/30",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-grand-theft-auto-iii-the-definitive-edition-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: IntelÂ® Coreâ¢ i5-6600K / AMD FX-6300\nMemory: 8 GB RAM\nGraphics: Nvidia GeForce GTX 760 2GB / AMD Radeon R9 280 3GB\nNetwork: Broadband Internet connection\nStorage: 5 GB available space\nSound Card: DirectX compatible",
+      "requirements_rec": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 10\nProcessor: IntelÂ® Coreâ¢ i7-6600K / AMD Ryzen 5 2600\nMemory: 16 GB RAM\nGraphics: Nvidia GeForce GTX 970 4GB / AMD Radeon RX 570 4GB\nNetwork: Broadband Internet connection\nStorage: 5 GB available space\nSound Card: DirectX compatible",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546970/ss_47413745fbfbe027f1e9f0695caaf242e802d4ea.1920x1080.jpg?t=1781138540",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546970/ss_56f78f530f5bfea0395380ba23cc67cbc0fdc0b0.1920x1080.jpg?t=1781138540",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546970/ss_6e9a00039b77e086aac76d4a915c274924203ffb.1920x1080.jpg?t=1781138540",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546970/ss_c4a966ca6957a1a73b9aa5e15b6b6d29bab80222.1920x1080.jpg?t=1781138540",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1546970/ss_b9f06c9611dd13c055fca6d6d0b1d57fe27b2b75.1920x1080.jpg?t=1781138540"
+      ],
+      "sort_name": "Grand Theft Auto III The Definitive Edition",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/library_hero.jpg",
       "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/capsule_616x353.jpg?t=1634144450",
       "description": "Grand Theft Auto : San Andreas",
@@ -1202,6 +1248,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782819808,
+  "generated_at": 1782820852,
   "schema_version": 2
 }
