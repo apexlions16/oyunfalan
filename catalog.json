@@ -396,6 +396,46 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257344384/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/library_hero.jpg",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/capsule_616x353.jpg?t=1634144450",
+      "description": "Grand Theft Auto : San Andreas",
+      "developer": null,
+      "display_name": "Grand Theft Auto San Andreas",
+      "game_id": "game-grand-theft-auto-san-andreas",
+      "genres": [],
+      "logo_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/logo_2x.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": null,
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 4975318699,
+          "folder": "PPCH/27",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-grand-theft-auto-san-andreas-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": null,
+      "requirements_rec": null,
+      "screenshots": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/0000003312.jpg",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/0000003304.jpg"
+      ],
+      "sort_name": "Grand Theft Auto San Andreas",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/page_bg_raw.jpg?t=1781187782",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/library_600x900.jpg",
       "description": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
@@ -1081,6 +1121,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782770428,
+  "generated_at": 1782819240,
   "schema_version": 2
 }
