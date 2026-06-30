@@ -50,6 +50,46 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257347862/movie_max.mp4"
     },
     {
+      "background_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15100/header.jpg",
+      "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15100/portrait.png?t=1602600542",
+      "description": "Assassin's Creed™ is the next-gen game developed by Ubisoft Montreal that redefines the action genre. While other games claim to be next-gen with impressive graphics and physics, Assassin's Creed merges technology, game design, theme and",
+      "developer": null,
+      "display_name": "Assassin's Creed",
+      "game_id": "game-assassin-s-creed",
+      "genres": [],
+      "logo_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15100/header.jpg",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": null,
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 7148446758,
+          "folder": "PPCH/34",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-assassin-s-creed-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": null,
+      "requirements_rec": null,
+      "screenshots": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15100/0000003837.jpg",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15100/0000003839.jpg"
+      ],
+      "sort_name": "Assassin's Creed",
+      "trailer_url": "https://video.fastly.steamstatic.com/store_trailers/15100/1029/f0126aa91a6328d9592aec7d5ad2210429b35078/1750484536/microtrailer.mp4"
+    },
+    {
       "background_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1063660/page_bg_raw.jpg?t=1782407144",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1063660/library_600x900.jpg",
       "description": "Bendy and the Dark Revival® is a first-person survival horror game set in the creepiest cartoon studio to ever exist. Discover the truth. Escape the studio. Above all, fear the Ink Demon…and survive.",
@@ -1389,6 +1429,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782822145,
+  "generated_at": 1782823559,
   "schema_version": 2
 }
