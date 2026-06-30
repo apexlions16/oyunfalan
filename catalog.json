@@ -143,6 +143,54 @@
       "trailer_url": "https://video.fastly.steamstatic.com/store_trailers/15100/1029/f0126aa91a6328d9592aec7d5ad2210429b35078/1750484536/microtrailer.mp4"
     },
     {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/242050?t=1777052740",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/242050/library_600x900.jpg",
+      "description": "Discover Assassin's Creed IV Black Flag, the classic pirate action-adventure game from 2013. Command your ship, hunt Templars and carve your legend as Edward Kenway across the Caribbean's Golden Age of Piracy.",
+      "developer": "Ubisoft Montreal",
+      "display_name": "Assassin’s Creed® IV Black Flag™",
+      "game_id": "game-assassin-s-creed-iv-black-flag",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/242050/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Ubisoft",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 19646669608,
+          "folder": "PPCH/37",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-assassin-s-creed-iv-black-flag-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "Minimum:\nOS *: Windows Vista SP2\nProcessor: Intel Core2Quad Q8400 @ 2.6 GHz or AMD Athlon II X4 620 @ 2.6 GHz\nMemory: 2 GB RAM\nGraphics: Nvidia Geforce GTX 260 or AMD Radeon HD 4870 (512MB VRAM with shader Model 4.0 or higher)\nStorage: 30 GB available space\nSound Card: DirectX Compatible Sound Card with latest drivers\nAdditional Notes: Windows-Compatible keyboard and mouse required, controller optional.",
+      "requirements_rec": "Recommended:\nOS *: Windows Vista SP2\nProcessor: Intel Core i5 2400S @ 2.5 GHz or better or AMD Phenom II x4 940 @ 3.0 GHz\nMemory: 4 GB RAM\nGraphics: Nvidia GeForce GTX 470 or AMD Radeon HD 5850 (1024MB VRAM with Shader Model 5.0) or better\nStorage: 30 GB available space\nSound Card: DirectX Compatible Sound Card with latest drivers\nAdditional Notes: Supported video cards at the time of release: Nvidia GeForce GTX 260 or better and GeForce GTX 400, GTX 500, GTX 600 and GTX 700 series. AMD Radeon HD4870 or better and Radeon HD5000, HD6000 and HD7000 series. Note: Latest GeForce drivers tested: 327.23 for all series. Latest Radeon drivers tested: 13.1 for Radeon HD4000, 13.4 for Radeon HD5000, HD6000 and HD7000 series on Vista and 13.9 for Radeon HD5000, HD6000 and HD7000 series on Win7 and Win8. Laptop versions of these cards may work but are NOT officially supported.",
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_82453694854272967e6f7c2147ff86f62a2b1408.1920x1080.jpg?t=1777052740",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_afb6f91bc96b51d0684bb4cbec4389b49dcb96db.1920x1080.jpg?t=1777052740",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_c2ad7f22e27b8ffab2a896e543a82fc8f6e9a1a7.1920x1080.jpg?t=1777052740",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_7aa79ce41e1233ff22701281af51b5f0ab51245e.1920x1080.jpg?t=1777052740",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_1731a6467ede27fa624caa1b23332307b2149257.1920x1080.jpg?t=1777052740",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_a7b90773770ff884387199491885c12a57bdfc5d.1920x1080.jpg?t=1777052740",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242050/ss_60b905d803c94cd1a1e02bd62eeb6f9e4ca2b3ec.1920x1080.jpg?t=1777052740"
+      ],
+      "sort_name": "Assassin’s Creed IV Black Flag",
+      "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/2030091/movie_max.mp4"
+    },
+    {
       "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/48190?t=1681861086",
       "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/48190/library_600x900.jpg",
       "description": "It’s time to join the Brotherhood.",
@@ -1681,6 +1729,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782828867,
+  "generated_at": 1782830860,
   "schema_version": 2
 }
