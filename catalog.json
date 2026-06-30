@@ -482,6 +482,55 @@
       "trailer_url": null
     },
     {
+      "background_url": "https://store.akamai.steamstatic.com/images/storepagebackground/app/12210?t=1721061564",
+      "cover_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/12210/library_600x900.jpg",
+      "description": "Niko Bellic, Johnny Klebitz and Luis Lopez all have one thing in common - they live in the worst city in America. Liberty City worships money and status, and is heaven for those who have them and a living nightmare for those who don't.",
+      "developer": "Rockstar North",
+      "display_name": "Grand Theft Auto IV: The Complete Edition",
+      "game_id": "game-grand-theft-auto-iv",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "logo_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/12210/logo.png",
+      "platforms": [
+        "windows"
+      ],
+      "publisher": "Rockstar Games",
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 23783611083,
+          "folder": "PPCH/33",
+          "launch": {
+            "adapter": "windows_executable",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "windows",
+          "release_id": "release-grand-theft-auto-iv-windows-1.0",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.0"
+        }
+      ],
+      "requirements_min": "OS: Windows 10 (64-bit)\nProcessor: Intel Core 2 Duo 1.8GHz, AMD Athlon X2 64 2.4GHz\nMemory: 1.5GB\nGraphics: 256MB Nvidia 7900 / 256MB ATI X1900\nDirectX Version: DirectX 9.0c Compliant Card\nHard Drive: 22GB of Hard Disc Space\nSound Card: 5.1 Channel Audio Card",
+      "requirements_rec": null,
+      "screenshots": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/0000006360.1920x1080.jpg?t=1721061564",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/0000006361.1920x1080.jpg?t=1721061564",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/0000006362.1920x1080.jpg?t=1721061564",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/0000006363.1920x1080.jpg?t=1721061564",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/0000006364.1920x1080.jpg?t=1721061564",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/0000006365.1920x1080.jpg?t=1721061564",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/0000006366.1920x1080.jpg?t=1721061564",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/0000006367.1920x1080.jpg?t=1721061564"
+      ],
+      "sort_name": "Grand Theft Auto IV",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/library_hero.jpg",
       "cover_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12120/capsule_616x353.jpg?t=1634144450",
       "description": "Grand Theft Auto : San Andreas",
@@ -1340,6 +1389,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782821259,
+  "generated_at": 1782822145,
   "schema_version": 2
 }
