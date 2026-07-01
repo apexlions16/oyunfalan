@@ -439,6 +439,43 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/257165620/movie_max.mp4"
     },
     {
+      "background_url": null,
+      "cover_url": null,
+      "description": "",
+      "developer": null,
+      "display_name": "Bloodborne™",
+      "game_id": "game-bloodborne",
+      "genres": [],
+      "logo_url": null,
+      "platforms": [
+        "ps4"
+      ],
+      "publisher": null,
+      "releases": [
+        {
+          "channel": "stable",
+          "download_size_bytes": 31847875456,
+          "folder": "PPCH4/1",
+          "launch": {
+            "adapter": "emulator_profile",
+            "arguments": [],
+            "executable_relative_path": null,
+            "working_directory_relative_path": "."
+          },
+          "platform": "ps4",
+          "release_id": "release-bloodborne-ps4-1.09",
+          "repo_id": "glm-labs/entroylab",
+          "repo_type": "dataset",
+          "version": "1.09"
+        }
+      ],
+      "requirements_min": null,
+      "requirements_rec": null,
+      "screenshots": [],
+      "sort_name": "Bloodborne™",
+      "trailer_url": null
+    },
+    {
       "background_url": "https://romsfun.com/wp-content/uploads/2019/09/220px-Crash_Bandicoot_Cover.png",
       "cover_url": "https://romsfun.com/wp-content/uploads/2019/09/220px-Crash_Bandicoot_Cover.png",
       "description": "Release Date\nNA: September 9, 1996\nEU: November 8, 1996\n\nPublisher\nSony Computer Entertainment\nRegion\tEU, JP, US",
@@ -1794,6 +1831,6 @@
       "trailer_url": "https://video.akamai.steamstatic.com/store_trailers/256964120/movie_max.mp4"
     }
   ],
-  "generated_at": 1782834648,
+  "generated_at": 1782913762,
   "schema_version": 2
 }
